@@ -6,8 +6,7 @@ A simple and responsive weather app built using **HTML**, **CSS**, and **JavaScr
 
 ## 🔗 Live Demo
 
-[👉 View Live](#)  
-*(Replace `#` with your GitHub Pages, Netlify, or other deployment link)*
+[👉 View Live](https://weather-website-inky-two.vercel.app/)
 
 ---
 
@@ -36,7 +35,7 @@ A simple and responsive weather app built using **HTML**, **CSS**, and **JavaScr
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/weather-website.git
+git clone https://github.com/harshitjain3121/weather-website.git
 cd weather-website
 ```
 
@@ -45,7 +44,7 @@ cd weather-website
 3. **Add your API key** in the `script.js` file:
 
 ```javascript
-const apiKey = "your_api_key_here";
+const apiKey = "1b3c10dddefc7a1a6e65cb69d92f2ca0";
 ```
 
 4. **Open the project** in your browser:
